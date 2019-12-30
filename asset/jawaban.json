@@ -1,0 +1,102 @@
+[
+    {
+        "gambar": "image/soal1.jpeg",
+        "soal" : "Dari gambar  berikut yang merupakan tree adalah …",
+        "a": "G1 dan G3",
+        "b": "G3 dan G4",
+        "c": "G2 dan G4",
+        "d": "G1 dan G2",
+        "jawaban" : "D",
+        "penjelasan" : "Disebut tree karena setiap komponen dalam graph terhubung dengan lintasan tunggal dan tidak mengandung sirkuit yaitu G1 dan G2, sedangkan G3 mengandung sirkuit yaitu pada titik adf dan G4 merupakan forest karena mengandung dua tree."
+    },
+    {
+        "gambar": "image/soal2.jpeg",
+        "soal" : "Dari gambar 2 berikut yang merupakan spanning tree dari graf G adalah …",
+        "a": "T1,T2",
+        "b": "T3,T4",
+        "c": "T1,T3,T4",
+        "d": "Benar semua",
+        "jawaban" : "D",
+        "penjelasan" : "Spanning tree memiliki lintasan tunggal dan tidak mengandung sirkuit dan dari gambar tersebut semuanya merupakan spanning tree"
+    },
+    {
+        "gambar": "image/soal3.jpeg",
+        "soal" : "Total bobot dari spanning tree berikut adalah …",
+        "a": "24",
+        "b": "20",
+        "c": "15",
+        "d": "30",
+        "jawaban" : "A",
+        "penjelasan" : "Terlihat bahwa spanning tree tersebut mempunyai total bobot 2 + 3 + 4 + 4 + 4 + 4 + 3 = 24"
+    },
+    {
+        "gambar": "image/soal4.jpeg",
+        "soal" : "Yang merupakan parent dan child pada pohon diatas adalah … ",
+        "a": "Parent : b Child : a c d",
+        "b": "Parent : a Child : b c d",
+        "c": "Parent : k Child : g d a",
+        "d": "Parent : b Child : h I j",
+        "jawaban" : "B",
+        "penjelasan" : "Parent merupakan komponen yang berada diatas child dan child merupakan cabang dari parent tersebut sehingga dari pilihan diatas yang benar adalah a sebagai parent dan b c d sebagai child karena merupakan cabang dari a."
+    },
+    {
+        "gambar": "image/soal5.jpeg",
+        "soal" : "Infix dari gambar tersebut adalah …",
+        "a": "b / c + a * d – e * f",
+        "b": "d – e * f * b / c + a",
+        "c": "a + b / c * d – e * f",
+        "d": "d – e * f * a + b / c",
+        "jawaban" : "C",
+        "penjelasan" : "Urutan infix adalah operand operator operand dan cara menentukan infix adalah melihat dari letaknya dalam pohon yaitu kiri tengah kanan."
+    },
+    {
+        "gambar": "noimage",
+        "soal" : "Misalkan G adalah graf dengan barisan derajat: (4,3,2,1). banyaknya sisi di G adalah ...",
+        "a": "10",
+        "b": "5",
+        "c": "9",
+        "d": "4",
+        "jawaban" : "B",
+        "penjelasan" : "Jumlah derajat titik pada suatu graf sama dengan 2 kali banyak sisi. Diketahui bahwa jumlah derajat titik-titik graf itu adalah 4+3+2+1=104+3+2+1=10. Dengan demikian, banyak sisi di G adalah 12×10=5"
+    },
+    {
+        "gambar": "image/soal7.jpeg",
+        "soal" : "Bentuk grafnya adalah ...",
+        "a": "Sederhana ",
+        "b": "Memuat sisi rangkap",
+        "c": "Memuat loop",
+        "d": "Semua benar",
+        "jawaban" : "A",
+        "penjelasan" : "karena tidak memuat sisi rangkap maupun loop"
+    },
+    {
+        "gambar": "image/soal8.jpeg",
+        "soal" : "Bentuk grafnya adalah ...",
+        "a": "Sederhana ",
+        "b": "Memuat sisi rangkap",
+        "c": "Memuat loop",
+        "d": "Semua benar",
+        "jawaban" : "B",
+        "penjelasan" : "pada sisi penghubung titik u dan v."
+    },
+    {
+        "gambar": "image/soal9.jpeg",
+        "soal" : "Derajat titik dan derajat maksimalnya adalah . . .",
+        "a": "a = 3 , b = 2, c = 2, d = 4 ; maks(G1) = 4",
+        "b": "a = 3 , b = 2, c = 4, d = 2 ; maks(G1) = 2",
+        "c": "a = 3 , b = 2, c = 2, d = 3 ; maks(G1) = 3",
+        "d": "a = 2 , b = 4, c = 2, d = 4 ; maks(G1) = 4",
+        "jawaban" : "D",
+        "penjelasan" : "apat dilihat dari jumlah sisi yang ditarik keluar dari titik yang bersangkutan"
+    },
+    {
+        "gambar": "image/soal10.jpeg",
+        "soal" : "Derajat titik dan derajat maksimalnya adalah . . .",
+        "a": "p = 4 , q = 2, r = 2, s = 3 ; maks(G2) = 4",
+        "b": "p = 2 , q = 1, r = 1, s = 3 ; maks(G2) = 1",
+        "c": "p = 1 , q = 3, r = 1, s = 3 ; maks(G2) = 3",
+        "d": "p = 3 , q = 1, r = 1, s = 3 ; maks(G2) = 3",
+        "jawaban" : "C",
+        "penjelasan" : "dapat dilihat dari jumlah sisi yang ditarik keluar dari titik yang bersangkutan."
+    }
+]

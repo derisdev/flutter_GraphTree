@@ -1,0 +1,100 @@
+[
+    {
+        "1": "Dari gambar  berikut yang merupakan tree adalah …",
+        "2": "Dari gambar diatas yang merupakan spanning tree dari graf G adalah …",
+        "3": "Total bobot dari spanning tree berikut adalah …",
+        "4": "Yang merupakan parent dan child pada pohon diatas adalah … ",
+        "5": "Infix dari gambar tersebut adalah …",
+        "6": "Misalkan G adalah graf dengan barisan derajat: (4,3,2,1). banyaknya sisi di G adalah ...",
+        "7": "Bentuk grafnya adalah ...",
+        "8": "Bentuk grafnya adalah ...",
+        "9": "Derajat titik dan derajat maksimalnya adalah . . .",
+        "10": "Derajat titik dan derajat maksimalnya adalah . . ."
+    },
+    {
+        "1": {
+            "a": "G1 dan G3",
+            "b": "G3 dan G4",
+            "c": "G2 dan G4",
+            "d": "G1 dan G2"
+        },
+        "2": {
+            "a": "T1,T2",
+            "b": "T3,T4",
+            "c": "T1,T3,T4",
+            "d": "Benar semua"
+        },
+        "3": {
+            "a": "24",
+            "b": "20",
+            "c": "15",
+            "d": "30"
+        },
+        "4": {
+            "a": "Parent : b Child : a c d",
+            "b": "Parent : a Child : b c d",
+            "c": "Parent : k Child : g d a",
+            "d": "Parent : b Child : h I j"
+        },
+        "5": {
+            "a": "b / c + a * d – e * f",
+            "b": "d – e * f * b / c + a",
+            "c": "a + b / c * d – e * f",
+            "d": "d – e * f * a + b / c"
+        },
+        "6": {
+            "a": "10",
+            "b": "5",
+            "c": "9",
+            "d": "4"
+        },
+        "7": {
+            "a": "Sederhana ",
+            "b": "Memuat sisi rangkap",
+            "c": "Memuat loop",
+            "d": "Semua benar"
+        },
+        "8": {
+            "a": "Sederhana ",
+            "b": "Memuat sisi rangkap",
+            "c": "Memuat loop",
+            "d": "Semua benar"
+        },
+        "9": {
+            "a": "a = 3 , b = 2, c = 2, d = 4 ; maks(G1) = 4",
+            "b": "a = 3 , b = 2, c = 4, d = 2 ; maks(G1) = 2",
+            "c": "a = 3 , b = 2, c = 2, d = 3 ; maks(G1) = 3",
+            "d": "a = 2 , b = 4, c = 2, d = 4 ; maks(G1) = 4"
+        },
+        "10": {
+            "a": "p = 4 , q = 2, r = 2, s = 3 ; maks(G2) = 4",
+            "b": "p = 2 , q = 1, r = 1, s = 3 ; maks(G2) = 1",
+            "c": "p = 1 , q = 3, r = 1, s = 3 ; maks(G2) = 3",
+            "d": "p = 3 , q = 1, r = 1, s = 3 ; maks(G2) = 3"
+        }
+    },
+    {
+        "1": "G1 dan G2",
+        "2": "Benar semua",
+        "3": "24",
+        "4": "Parent : a Child : b c d",
+        "5": "a + b / c * d – e * f",
+        "6": "5",
+        "7": "Sederhana ",
+        "8": "Memuat sisi rangkap",
+        "9": "a = 2 , b = 4, c = 2, d = 4 ; maks(G1) = 4",
+        "10": "p = 1 , q = 3, r = 1, s = 3 ; maks(G2) = 3"
+    },
+    {
+        "1" : "image/soal1.jpeg",
+        "2" : "image/soal2.jpeg",
+        "3" : "image/soal3.jpeg",
+        "4" : "image/soal4.jpeg",
+        "5" : "image/soal5.jpeg",
+        "6" : "noimage",
+        "7" : "image/soal7.jpeg",
+        "8" : "image/soal8.jpeg",
+        "9" : "image/soal9.jpeg",
+        "10" : "image/soal10.jpeg"
+    }
+]
